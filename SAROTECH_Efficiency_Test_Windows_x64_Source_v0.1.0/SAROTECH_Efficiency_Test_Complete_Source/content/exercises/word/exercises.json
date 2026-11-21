@@ -1,0 +1,452 @@
+[
+  {
+    "id": "word-01",
+    "title": "Document Setup",
+    "instruction": "Set page size to A4, portrait orientation and 2 cm margins.",
+    "module": "Word",
+    "durationMinutes": 10,
+    "marks": 5,
+    "source": "original_practice"
+  },
+  {
+    "id": "word-02",
+    "title": "Font Formatting",
+    "instruction": "Apply the specified font family and size to the complete document.",
+    "module": "Word",
+    "durationMinutes": 10,
+    "marks": 5,
+    "source": "original_practice"
+  },
+  {
+    "id": "word-03",
+    "title": "Text Emphasis",
+    "instruction": "Apply bold, italic and underline to the indicated phrases.",
+    "module": "Word",
+    "durationMinutes": 10,
+    "marks": 5,
+    "source": "original_practice"
+  },
+  {
+    "id": "word-04",
+    "title": "Paragraph Alignment",
+    "instruction": "Set the title to centre alignment and body paragraphs to justified.",
+    "module": "Word",
+    "durationMinutes": 10,
+    "marks": 5,
+    "source": "original_practice"
+  },
+  {
+    "id": "word-05",
+    "title": "Line Spacing",
+    "instruction": "Set body paragraphs to 1.5 line spacing.",
+    "module": "Word",
+    "durationMinutes": 10,
+    "marks": 5,
+    "source": "original_practice"
+  },
+  {
+    "id": "word-06",
+    "title": "Paragraph Indentation",
+    "instruction": "Apply first-line indentation to each body paragraph.",
+    "module": "Word",
+    "durationMinutes": 10,
+    "marks": 5,
+    "source": "original_practice"
+  },
+  {
+    "id": "word-07",
+    "title": "Paragraph Spacing",
+    "instruction": "Set 6 pt spacing after body paragraphs.",
+    "module": "Word",
+    "durationMinutes": 10,
+    "marks": 5,
+    "source": "original_practice"
+  },
+  {
+    "id": "word-08",
+    "title": "Bulleted List",
+    "instruction": "Convert the marked lines into a bulleted list.",
+    "module": "Word",
+    "durationMinutes": 10,
+    "marks": 5,
+    "source": "original_practice"
+  },
+  {
+    "id": "word-09",
+    "title": "Numbered List",
+    "instruction": "Convert the marked steps into a numbered list.",
+    "module": "Word",
+    "durationMinutes": 10,
+    "marks": 5,
+    "source": "original_practice"
+  },
+  {
+    "id": "word-10",
+    "title": "Multilevel List",
+    "instruction": "Create a two-level numbered list from the outline.",
+    "module": "Word",
+    "durationMinutes": 10,
+    "marks": 5,
+    "source": "original_practice"
+  },
+  {
+    "id": "word-11",
+    "title": "Find and Replace",
+    "instruction": "Replace every occurrence of the given word with its replacement.",
+    "module": "Word",
+    "durationMinutes": 10,
+    "marks": 5,
+    "source": "original_practice"
+  },
+  {
+    "id": "word-12",
+    "title": "Header",
+    "instruction": "Insert the supplied text in the document header.",
+    "module": "Word",
+    "durationMinutes": 10,
+    "marks": 5,
+    "source": "original_practice"
+  },
+  {
+    "id": "word-13",
+    "title": "Footer",
+    "instruction": "Insert the supplied footer text and align it right.",
+    "module": "Word",
+    "durationMinutes": 10,
+    "marks": 5,
+    "source": "original_practice"
+  },
+  {
+    "id": "word-14",
+    "title": "Page Number",
+    "instruction": "Insert page numbers in the footer.",
+    "module": "Word",
+    "durationMinutes": 10,
+    "marks": 5,
+    "source": "original_practice"
+  },
+  {
+    "id": "word-15",
+    "title": "Page Border",
+    "instruction": "Apply a simple box page border.",
+    "module": "Word",
+    "durationMinutes": 10,
+    "marks": 5,
+    "source": "original_practice"
+  },
+  {
+    "id": "word-16",
+    "title": "Text Highlight",
+    "instruction": "Highlight the specified key terms.",
+    "module": "Word",
+    "durationMinutes": 10,
+    "marks": 5,
+    "source": "original_practice"
+  },
+  {
+    "id": "word-17",
+    "title": "Font Colour",
+    "instruction": "Change the specified heading to the required font colour.",
+    "module": "Word",
+    "durationMinutes": 10,
+    "marks": 5,
+    "source": "original_practice"
+  },
+  {
+    "id": "word-18",
+    "title": "Change Case",
+    "instruction": "Convert the selected heading to uppercase.",
+    "module": "Word",
+    "durationMinutes": 10,
+    "marks": 5,
+    "source": "original_practice"
+  },
+  {
+    "id": "word-19",
+    "title": "Columns",
+    "instruction": "Format the selected notice text into two columns.",
+    "module": "Word",
+    "durationMinutes": 10,
+    "marks": 5,
+    "source": "original_practice"
+  },
+  {
+    "id": "word-20",
+    "title": "Section Break",
+    "instruction": "Insert a section break before the second section.",
+    "module": "Word",
+    "durationMinutes": 10,
+    "marks": 5,
+    "source": "original_practice"
+  },
+  {
+    "id": "word-21",
+    "title": "Table Creation",
+    "instruction": "Create a table with the specified rows and columns.",
+    "module": "Word",
+    "durationMinutes": 10,
+    "marks": 5,
+    "source": "original_practice"
+  },
+  {
+    "id": "word-22",
+    "title": "Table Formatting",
+    "instruction": "Apply borders and header-row emphasis to the table.",
+    "module": "Word",
+    "durationMinutes": 10,
+    "marks": 5,
+    "source": "original_practice"
+  },
+  {
+    "id": "word-23",
+    "title": "Cell Alignment",
+    "instruction": "Centre-align the contents of the selected table cells.",
+    "module": "Word",
+    "durationMinutes": 10,
+    "marks": 5,
+    "source": "original_practice"
+  },
+  {
+    "id": "word-24",
+    "title": "Cell Merge",
+    "instruction": "Merge the indicated cells in the first table row.",
+    "module": "Word",
+    "durationMinutes": 10,
+    "marks": 5,
+    "source": "original_practice"
+  },
+  {
+    "id": "word-25",
+    "title": "Row Height",
+    "instruction": "Set the specified table row height.",
+    "module": "Word",
+    "durationMinutes": 10,
+    "marks": 5,
+    "source": "original_practice"
+  },
+  {
+    "id": "word-26",
+    "title": "Column Width",
+    "instruction": "Adjust the table columns to the supplied widths.",
+    "module": "Word",
+    "durationMinutes": 10,
+    "marks": 5,
+    "source": "original_practice"
+  },
+  {
+    "id": "word-27",
+    "title": "Insert Picture",
+    "instruction": "Insert the supplied picture at the marked location.",
+    "module": "Word",
+    "durationMinutes": 10,
+    "marks": 5,
+    "source": "original_practice"
+  },
+  {
+    "id": "word-28",
+    "title": "Picture Wrapping",
+    "instruction": "Set the picture text wrapping as instructed.",
+    "module": "Word",
+    "durationMinutes": 10,
+    "marks": 5,
+    "source": "original_practice"
+  },
+  {
+    "id": "word-29",
+    "title": "Hyperlink",
+    "instruction": "Create a hyperlink using the supplied display text and address.",
+    "module": "Word",
+    "durationMinutes": 10,
+    "marks": 5,
+    "source": "original_practice"
+  },
+  {
+    "id": "word-30",
+    "title": "Footnote",
+    "instruction": "Insert a footnote at the indicated sentence.",
+    "module": "Word",
+    "durationMinutes": 10,
+    "marks": 5,
+    "source": "original_practice"
+  },
+  {
+    "id": "word-31",
+    "title": "Page Break",
+    "instruction": "Insert a page break before the next heading.",
+    "module": "Word",
+    "durationMinutes": 10,
+    "marks": 5,
+    "source": "original_practice"
+  },
+  {
+    "id": "word-32",
+    "title": "Watermark",
+    "instruction": "Apply the supplied text as a document watermark.",
+    "module": "Word",
+    "durationMinutes": 10,
+    "marks": 5,
+    "source": "original_practice"
+  },
+  {
+    "id": "word-33",
+    "title": "Styles",
+    "instruction": "Apply Heading 1 and Heading 2 styles to the marked headings.",
+    "module": "Word",
+    "durationMinutes": 10,
+    "marks": 5,
+    "source": "original_practice"
+  },
+  {
+    "id": "word-34",
+    "title": "Navigation Pane",
+    "instruction": "Use heading styles so the document outline is navigable.",
+    "module": "Word",
+    "durationMinutes": 10,
+    "marks": 5,
+    "source": "original_practice"
+  },
+  {
+    "id": "word-35",
+    "title": "Tab Stops",
+    "instruction": "Set a right-aligned tab stop for the listed values.",
+    "module": "Word",
+    "durationMinutes": 10,
+    "marks": 5,
+    "source": "original_practice"
+  },
+  {
+    "id": "word-36",
+    "title": "Drop Cap",
+    "instruction": "Apply a drop cap to the first paragraph.",
+    "module": "Word",
+    "durationMinutes": 10,
+    "marks": 5,
+    "source": "original_practice"
+  },
+  {
+    "id": "word-37",
+    "title": "Text Box",
+    "instruction": "Insert a text box containing the supplied notice.",
+    "module": "Word",
+    "durationMinutes": 10,
+    "marks": 5,
+    "source": "original_practice"
+  },
+  {
+    "id": "word-38",
+    "title": "Shapes",
+    "instruction": "Insert and format the specified basic shape.",
+    "module": "Word",
+    "durationMinutes": 10,
+    "marks": 5,
+    "source": "original_practice"
+  },
+  {
+    "id": "word-39",
+    "title": "Mail Merge",
+    "instruction": "Prepare a simple letter using the supplied recipient fields.",
+    "module": "Word",
+    "durationMinutes": 10,
+    "marks": 5,
+    "source": "original_practice"
+  },
+  {
+    "id": "word-40",
+    "title": "Spelling Review",
+    "instruction": "Run spelling review and correct the marked errors.",
+    "module": "Word",
+    "durationMinutes": 10,
+    "marks": 5,
+    "source": "original_practice"
+  },
+  {
+    "id": "word-41",
+    "title": "Document Properties",
+    "instruction": "Set the document title and author properties.",
+    "module": "Word",
+    "durationMinutes": 10,
+    "marks": 5,
+    "source": "original_practice"
+  },
+  {
+    "id": "word-42",
+    "title": "Print Layout",
+    "instruction": "Verify page layout and remove unwanted blank pages.",
+    "module": "Word",
+    "durationMinutes": 10,
+    "marks": 5,
+    "source": "original_practice"
+  },
+  {
+    "id": "word-43",
+    "title": "Table of Contents",
+    "instruction": "Insert a table of contents from the heading styles.",
+    "module": "Word",
+    "durationMinutes": 10,
+    "marks": 5,
+    "source": "original_practice"
+  },
+  {
+    "id": "word-44",
+    "title": "Track Changes",
+    "instruction": "Enable Track Changes and make the specified edit.",
+    "module": "Word",
+    "durationMinutes": 10,
+    "marks": 5,
+    "source": "original_practice"
+  },
+  {
+    "id": "word-45",
+    "title": "Comments",
+    "instruction": "Add a comment to the marked sentence.",
+    "module": "Word",
+    "durationMinutes": 10,
+    "marks": 5,
+    "source": "original_practice"
+  },
+  {
+    "id": "word-46",
+    "title": "Page Orientation",
+    "instruction": "Change only the specified section to landscape.",
+    "module": "Word",
+    "durationMinutes": 10,
+    "marks": 5,
+    "source": "original_practice"
+  },
+  {
+    "id": "word-47",
+    "title": "Different First Page",
+    "instruction": "Enable a different first-page header/footer.",
+    "module": "Word",
+    "durationMinutes": 10,
+    "marks": 5,
+    "source": "original_practice"
+  },
+  {
+    "id": "word-48",
+    "title": "Text Direction",
+    "instruction": "Set the selected table cell text direction.",
+    "module": "Word",
+    "durationMinutes": 10,
+    "marks": 5,
+    "source": "original_practice"
+  },
+  {
+    "id": "word-49",
+    "title": "Sort Table",
+    "instruction": "Sort the table records by the specified column.",
+    "module": "Word",
+    "durationMinutes": 10,
+    "marks": 5,
+    "source": "original_practice"
+  },
+  {
+    "id": "word-50",
+    "title": "Final Formatting",
+    "instruction": "Apply consistent heading, body and page formatting.",
+    "module": "Word",
+    "durationMinutes": 10,
+    "marks": 5,
+    "source": "original_practice"
+  }
+]
